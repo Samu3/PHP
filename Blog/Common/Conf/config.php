@@ -1,4 +1,9 @@
 <?php
 return array(
-	//'配置项'=>'配置值'
+	'DB_TYPE' =>'mysql',
+	'DB_HOST' => 'localhost',
+	'DB_NAME' => 'books',
+	'DB_USER' => 'bookorama',
+	'DB_PWD' => 'bookorama123',
+	'DB_PORT' => '8889',
 );

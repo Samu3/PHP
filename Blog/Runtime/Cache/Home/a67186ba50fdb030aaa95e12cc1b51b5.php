@@ -335,7 +335,7 @@
                 <div class="NewsList tc box_1" style="border-top: medium none;">
                     <ul>
                         <li>
-                            <a href="#" title="三星SGHU308说明书下载">三星SGHU308说明书下载</a>
+                            <a href="<?php echo ($url); ?>" title="三星SGHU308说明书下载">三星SGHU308说明书下载</a>
                         </li>
                         <li>
                             <a href="#" title="手机游戏下载">手机游戏下载</a>
